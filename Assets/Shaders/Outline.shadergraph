@@ -250,9 +250,6 @@
         },
         {
             "m_Id": "8032dd507db44751b3ace1a2270688fc"
-        },
-        {
-            "m_Id": "4f531c48a79046a4a8e810aa09f4f113"
         }
     ],
     "m_StickyNoteDatas": [],
@@ -1826,7 +1823,7 @@
     "m_Type": "UnityEditor.Rendering.Universal.UniversalSampleBufferNode",
     "m_ObjectId": "0b40aec981444445a8d6365c310a0a8c",
     "m_Group": {
-        "m_Id": "4f531c48a79046a4a8e810aa09f4f113"
+        "m_Id": ""
     },
     "m_Name": "URP Sample Buffer",
     "m_DrawState": {
@@ -1867,7 +1864,7 @@
     "m_Type": "UnityEditor.ShaderGraph.SubtractNode",
     "m_ObjectId": "0bed1c3ba664417c8f25e686c27cd0c8",
     "m_Group": {
-        "m_Id": "4f531c48a79046a4a8e810aa09f4f113"
+        "m_Id": ""
     },
     "m_Name": "Subtract",
     "m_DrawState": {
@@ -2322,7 +2319,7 @@
     "m_Type": "UnityEditor.ShaderGraph.Vector2Node",
     "m_ObjectId": "1ceaff1ece0a41c18fb0e2fa43cfdb8b",
     "m_Group": {
-        "m_Id": "4f531c48a79046a4a8e810aa09f4f113"
+        "m_Id": ""
     },
     "m_Name": "Vector 2",
     "m_DrawState": {
@@ -2394,7 +2391,7 @@
     "m_Type": "UnityEditor.ShaderGraph.DivideNode",
     "m_ObjectId": "228ccb730d4c4793967855186e58998d",
     "m_Group": {
-        "m_Id": "4f531c48a79046a4a8e810aa09f4f113"
+        "m_Id": ""
     },
     "m_Name": "Divide",
     "m_DrawState": {
@@ -2561,7 +2558,7 @@
     "m_Type": "UnityEditor.ShaderGraph.LerpNode",
     "m_ObjectId": "25b85bb44a334e39abc579e6b87a15ef",
     "m_Group": {
-        "m_Id": "4f531c48a79046a4a8e810aa09f4f113"
+        "m_Id": ""
     },
     "m_Name": "Lerp",
     "m_DrawState": {
@@ -3290,7 +3287,7 @@
     "m_Type": "UnityEditor.ShaderGraph.Vector2Node",
     "m_ObjectId": "3b514278bc9e4ea5aef8c9af95163fd7",
     "m_Group": {
-        "m_Id": "4f531c48a79046a4a8e810aa09f4f113"
+        "m_Id": ""
     },
     "m_Name": "Vector 2",
     "m_DrawState": {
@@ -3364,7 +3361,7 @@
     "m_Type": "UnityEditor.Rendering.Universal.UniversalSampleBufferNode",
     "m_ObjectId": "3c1d2a70f2e941d198b0f30ab4466d71",
     "m_Group": {
-        "m_Id": "4f531c48a79046a4a8e810aa09f4f113"
+        "m_Id": ""
     },
     "m_Name": "URP Sample Buffer",
     "m_DrawState": {
@@ -3748,7 +3745,7 @@
     "m_Type": "UnityEditor.ShaderGraph.ScreenNode",
     "m_ObjectId": "4d7475ceb700474fb0d674d4045d2d55",
     "m_Group": {
-        "m_Id": "4f531c48a79046a4a8e810aa09f4f113"
+        "m_Id": ""
     },
     "m_Name": "Screen",
     "m_DrawState": {
@@ -3821,17 +3818,6 @@
         "z": 0.0
     },
     "m_Labels": []
-}
-
-{
-    "m_SGVersion": 0,
-    "m_Type": "UnityEditor.ShaderGraph.GroupData",
-    "m_ObjectId": "4f531c48a79046a4a8e810aa09f4f113",
-    "m_Title": "Colour",
-    "m_Position": {
-        "x": -3084.0,
-        "y": 2301.0
-    }
 }
 
 {
@@ -4323,7 +4309,7 @@
     "m_Type": "UnityEditor.ShaderGraph.PropertyNode",
     "m_ObjectId": "63ea4dd60c4d443ebd8092b8d5e2e2df",
     "m_Group": {
-        "m_Id": "4f531c48a79046a4a8e810aa09f4f113"
+        "m_Id": ""
     },
     "m_Name": "Property",
     "m_DrawState": {
@@ -5098,8 +5084,8 @@
     "m_ObjectId": "8032dd507db44751b3ace1a2270688fc",
     "m_Title": "Colour",
     "m_Position": {
-        "x": -3015.0,
-        "y": 1009.0
+        "x": -3015.333251953125,
+        "y": 1009.3333129882813
     }
 }
 
@@ -5374,7 +5360,7 @@
     "m_Type": "UnityEditor.Rendering.Universal.UniversalSampleBufferNode",
     "m_ObjectId": "8711149a84304e4a9fdc90c565124e3a",
     "m_Group": {
-        "m_Id": "4f531c48a79046a4a8e810aa09f4f113"
+        "m_Id": ""
     },
     "m_Name": "URP Sample Buffer",
     "m_DrawState": {
@@ -5537,7 +5523,7 @@
     "m_Type": "UnityEditor.ShaderGraph.UVNode",
     "m_ObjectId": "8b8aba1cf6e345a299245034fc12a73f",
     "m_Group": {
-        "m_Id": "4f531c48a79046a4a8e810aa09f4f113"
+        "m_Id": ""
     },
     "m_Name": "UV",
     "m_DrawState": {
@@ -6105,8 +6091,8 @@
     "m_ObjectId": "a93540142ecb48eda10e56d0ab8dbf53",
     "m_Title": "New Group",
     "m_Position": {
-        "x": -3073.0,
-        "y": -460.0
+        "x": -3073.333251953125,
+        "y": -459.33343505859377
     }
 }
 
@@ -6409,7 +6395,7 @@
     "m_Type": "UnityEditor.ShaderGraph.LerpNode",
     "m_ObjectId": "b6d07beb213c4f5d8479307e15595c44",
     "m_Group": {
-        "m_Id": "4f531c48a79046a4a8e810aa09f4f113"
+        "m_Id": ""
     },
     "m_Name": "Lerp",
     "m_DrawState": {
@@ -7068,7 +7054,7 @@
     "m_Type": "UnityEditor.ShaderGraph.SubtractNode",
     "m_ObjectId": "c8879f1ca8f84956b8081757242c6828",
     "m_Group": {
-        "m_Id": "4f531c48a79046a4a8e810aa09f4f113"
+        "m_Id": ""
     },
     "m_Name": "Subtract",
     "m_DrawState": {
@@ -7352,7 +7338,7 @@
     "m_Type": "UnityEditor.Rendering.Universal.UniversalSampleBufferNode",
     "m_ObjectId": "d126a05123e346ee85a16bf942d68c8d",
     "m_Group": {
-        "m_Id": "4f531c48a79046a4a8e810aa09f4f113"
+        "m_Id": ""
     },
     "m_Name": "URP Sample Buffer",
     "m_DrawState": {
@@ -7594,7 +7580,7 @@
     "m_Type": "UnityEditor.ShaderGraph.AddNode",
     "m_ObjectId": "d83b6b4d4ff942698d4c1378a733fb18",
     "m_Group": {
-        "m_Id": "4f531c48a79046a4a8e810aa09f4f113"
+        "m_Id": ""
     },
     "m_Name": "Add",
     "m_DrawState": {
@@ -7904,7 +7890,7 @@
     "m_Type": "UnityEditor.ShaderGraph.SplitNode",
     "m_ObjectId": "e0c7b2717341466b8cce6b8980f03ac1",
     "m_Group": {
-        "m_Id": "4f531c48a79046a4a8e810aa09f4f113"
+        "m_Id": ""
     },
     "m_Name": "Split",
     "m_DrawState": {
@@ -8396,7 +8382,7 @@
     "m_Type": "UnityEditor.ShaderGraph.AddNode",
     "m_ObjectId": "ef8183ab869e4c12a172f31fa3533dde",
     "m_Group": {
-        "m_Id": "4f531c48a79046a4a8e810aa09f4f113"
+        "m_Id": ""
     },
     "m_Name": "Add",
     "m_DrawState": {
@@ -8558,7 +8544,7 @@
     "m_Type": "UnityEditor.ShaderGraph.LerpNode",
     "m_ObjectId": "f2b645b2fa594d61a855978f28e69ef3",
     "m_Group": {
-        "m_Id": "4f531c48a79046a4a8e810aa09f4f113"
+        "m_Id": ""
     },
     "m_Name": "Lerp",
     "m_DrawState": {
@@ -8699,7 +8685,7 @@
     "m_Type": "UnityEditor.ShaderGraph.Vector2Node",
     "m_ObjectId": "f895174630e8486fb453244b05c54780",
     "m_Group": {
-        "m_Id": "4f531c48a79046a4a8e810aa09f4f113"
+        "m_Id": ""
     },
     "m_Name": "Vector 2",
     "m_DrawState": {
